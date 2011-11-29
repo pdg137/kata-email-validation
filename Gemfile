@@ -14,10 +14,10 @@ group :development do
   # gem 'growlnotify'
 
   # Linux: Uncomment for inotify support
-  # gem 'rb-inotify'
+  gem 'rb-inotify'
 
   # Linux: Uncomment for visual notifications
-  # gem 'libnotify'
+  gem 'libnotify'
 
   # Windows: Uncomment for Directory Change Notification support
   # gem 'rb-fchange'
